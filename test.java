@@ -6,6 +6,6 @@ public class test{
 	}
 
 	public static void test(){
-		System.out.println("和羞走，倚门回首，却把青梅嗅");
+		System.out.println("昨夜雨疏风骤，浓睡不消残酒，试问卷帘人，却道海棠依旧，知否，知否，应是绿肥红瘦");
 	}
 }
