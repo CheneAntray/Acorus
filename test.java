@@ -6,6 +6,6 @@ public class test{
 	}
 
 	public static void test(){
-		System.out.println("和羞走，倚门回首，却把青梅嗅");
+		System.out.println("我欲乘风归去，又恐琼楼玉宇，高处不胜寒起舞弄清影，何似在人间");
 	}
 }
