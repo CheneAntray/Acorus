@@ -15,3 +15,4 @@ public class test{
 }
 风色幻想
 梦幻模拟战
+火焰纹章
