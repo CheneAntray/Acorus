@@ -12,7 +12,7 @@ public class test{
 		System.out.println("转朱阁，低绮户，照无眠，不应有恨");
 	}
 	
-}
+}aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 风色幻想
 梦幻模拟战
 火焰纹章
